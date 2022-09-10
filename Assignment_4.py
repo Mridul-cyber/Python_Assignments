@@ -23,7 +23,7 @@ print(Sum) """
 
 
 
-"""4.  Write a python script which takes two numbers from the user, then calculate their sum
+"""4.  Write a python script which takes two numbers from the user, then calculate area of circle
 and display the result."""
 
 """ from math import pi
