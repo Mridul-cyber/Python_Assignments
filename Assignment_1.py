@@ -42,7 +42,8 @@ print("My name is:" , name)
 name = "Mridul"
 age = 23
 qualification = "B.Tech"
-Years_of_Experience = 1
+Years_of_Experience = 0
+the_year_is_now="2024"
 
 print("My Name :  "  + name ,"My age:  " +  str(age) ,"My Qualification:  " + qualification ,"My Years of Experience:  " + str(Years_of_Experience) , sep="\n")
 
